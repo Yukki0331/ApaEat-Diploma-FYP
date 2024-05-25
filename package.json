@@ -1,0 +1,23 @@
+{
+  "name": "fyp2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "move.js",
+  "scripts": {
+    "build-css": "tailwindcss build styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheryssa/FYP.gnit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheryssa/FYP/issues"
+  },
+  "homepage": "https://github.com/cheryssa/FYP#readme",
+  "dependencies": {
+    "tailwindcss": "^3.2.1"
+  }
+}
